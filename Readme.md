@@ -7,7 +7,7 @@ This is the training respository for the JuDocs course for Research Software Eng
 <details>
 <summary>Day 1</summary>
 
-## 🗓️ **Day 1**
+## 🗓️ **Day 1 (May 6)**
 
 | **Topic** | **Time** | **Duration** |
 |-----------|----------|--------------|
