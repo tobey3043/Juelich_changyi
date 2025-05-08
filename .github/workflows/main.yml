@@ -1,4 +1,4 @@
-.name: Create Monthly Newsletter Issue
+name: Create Monthly Newsletter Issue
 
 on:
   schedule:              # Scheduled trigger
